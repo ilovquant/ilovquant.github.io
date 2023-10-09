@@ -6,12 +6,8 @@ category: sample
 ---
 > Hello!
 
-My blog topic is Quant.
+##My blog topic is Quant.
 
-I am a college student and my goal is to become a quant
-I'm goint to write about investing strategies.
+I am a college student and my goal is to become a quant  
+I'm goint to write about investing strategies 
 With some Coding Skills.
-
-```ruby
-print 'Enjoy Quant'
-```
